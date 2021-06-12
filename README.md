@@ -1,7 +1,7 @@
 ## SIG Python Modules
 
 ### Module 1 
-1. [Print Hello World](Module1/Python1.py)
+1. [Print Hello World](https://github.com/deepshikha007/SIG-Python/blob/master/module1/Python1.py)
 
 ### Module 3
 1. [Print Fibonacci series between 0 to 50](Module3/Python2.py)
