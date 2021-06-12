@@ -1,13 +1,13 @@
 ## SIG Python Modules
 
 ### Module 1 
-1. [Print Hello World](../Module1/Python1.py)
+1. [Print Hello World](../blob/master/Module1/Python1.py)
 
 ### Module 3
-1. [Print Fibonacci series between 0 to 50](../Module3/Python2.py)
-2. [Check whether a triangle is equilateral, isosceles or scalene](../Module3/Python3.py)
-3. [Find GCD of two Numbers](../Module3/Python4.py)
-4. [Find sum of all even numbers from 0 to 10](../Module3/Python5.py)
+1. [Print Fibonacci series between 0 to 50](../blob/master/Module3/Python2.py)
+2. [Check whether a triangle is equilateral, isosceles or scalene](../blob/master/Module3/Python3.py)
+3. [Find GCD of two Numbers](../blob/master/Module3/Python4.py)
+4. [Find sum of all even numbers from 0 to 10](../blob/master/Module3/Python5.py)
 
 ### Module 4
 1. [Print even numbers in the range 1-50 using continue statement](../Module4/Python6.py)
